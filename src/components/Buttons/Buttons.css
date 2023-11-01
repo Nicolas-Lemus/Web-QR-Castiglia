@@ -16,12 +16,13 @@
     font-family: 'Bevan', serif;
 }
 .button__component img{
-    width: 50px;
+    width: 57px;
 }
 a{
     text-decoration: none;
 }
 span{
     padding: .8rem;
+    width: 130px;
 }
 

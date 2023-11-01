@@ -1,12 +1,12 @@
 import React from 'react'
 import './Address.css'
 import Buttons from "../Buttons/Buttons"
-import WhatsApp from "../../images/iconos/icons8-whatsapp-96.webp"
-import Facebook from "../../images/iconos/icons8-facebook-96.webp"
-import Web from "../../images/iconos/icons8-web-94.webp"
-import Instagram from '../../images/iconos/icons8-instagram-96.webp'
-import Llamadas from '../../images/iconos/icons8-llamada-100.webp'
-import Email from '../../images/iconos/icons8-correo-electrónico-96.webp'
+import WhatsApp from "../../images/iconos-nuevos/icons8-whatsapp-96.webp"
+import Facebook from "../../images/iconos-nuevos/icons8-facebook-96 (1).webp"
+import Web from "../../images/iconos-nuevos/icons8-web-96 (1) (1).webp"
+import Instagram from '../../images/iconos-nuevos/icons8-instagram-96.webp'
+import Llamadas from '../../images/iconos-nuevos/icons8-llamada-96.webp'
+import Email from '../../images/iconos-nuevos/icons8-correo-electrónico-96 (1).webp'
 
 const Address = () => {
 
