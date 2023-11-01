@@ -1,5 +1,8 @@
-html,body{
-    background: linear-gradient(0deg, rgba(217,191,65,1) 0%, rgba(140,97,15,1) 100%);
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../src/images/iconos/Fondo-castiglia.jpg);
     max-width: 420px;
     height: 100vh;
     margin: 0 auto;

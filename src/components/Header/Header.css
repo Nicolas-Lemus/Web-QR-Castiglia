@@ -1,4 +1,6 @@
-.navbar{
+header{
+    position: relative;
+}.navbar{
     background:#ffffff;
     width: 175px;
     height: 175px;

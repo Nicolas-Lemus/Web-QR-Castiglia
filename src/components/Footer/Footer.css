@@ -1,11 +1,13 @@
 footer{
     width: 300px;
     margin: .2rem auto;
+    background: rgba(251, 255, 0, 0.893);
+    border-radius: 2rem;
 }
 footer p {
     text-align: center;
     font-size: 1rem;
-    color: #14222D;
+    color: #000000;
     padding-bottom: .1rem;
     margin: 0;
     font-family: 'Bevan', serif;
