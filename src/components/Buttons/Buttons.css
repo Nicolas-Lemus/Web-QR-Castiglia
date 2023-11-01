@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:opsz,wght@12..72,300&display=swap');
+
+
+.button__component{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    background:#14222D;
+    width: 280px;
+    margin: 0.8rem auto;
+}
+.button__component{
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Texturina', serif;
+}
+.button__component img{
+    width: 60px;
+}
+a{
+    text-decoration: none;
+}
+span{
+    padding: 1rem;
+}
+

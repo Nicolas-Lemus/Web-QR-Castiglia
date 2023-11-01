@@ -1,0 +1,13 @@
+footer{
+    border-radius: 1.3rem;
+    width: 300px;
+    margin: .5rem auto;
+}
+footer p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #14222D;
+    font-weight: 700;
+    padding: .2rem;
+    margin: 0;
+}
