@@ -1,6 +1,7 @@
 html,body{
-    background:#bf9823;
-    max-width: 450px;
+    background: linear-gradient(0deg, rgba(217,191,65,1) 0%, rgba(140,97,15,1) 100%);
+    max-width: 420px;
+    height: 100vh;
     margin: 0 auto;
 }
 /*

@@ -1,13 +1,12 @@
 footer{
-    border-radius: 1.3rem;
     width: 300px;
-    margin: .5rem auto;
+    margin: .2rem auto;
 }
 footer p {
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: #14222D;
-    font-weight: 700;
-    padding: .2rem;
+    padding-bottom: .1rem;
     margin: 0;
+    font-family: 'Bevan', serif;
 }

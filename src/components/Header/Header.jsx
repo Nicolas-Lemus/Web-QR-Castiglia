@@ -1,6 +1,6 @@
 import React from 'react'
 import "../Header/Header.css"
-import Logo from "../../images/iconos/castillglia-logo.webp"
+import Logo from "../../images/iconos/mi-favicon(2).webp"
 
 const Header = () => {
   return (
