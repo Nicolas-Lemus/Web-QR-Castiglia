@@ -22,36 +22,42 @@ return (
     <section className='address'> 
 
         <Buttons
+            animationClass='web animate__animated animate__flipInX'
             namber="Sitio Web" 
             address={addressWeb}
             image={Web}
         />
 
-        <Buttons
+        <Buttons 
+            animationClass='instagram animate__animated animate__flipInX'
             namber="Instagram" 
             address={addressInstagram}
             image={Instagram}
         />
 
-        <Buttons
+        <Buttons 
+            animationClass='facebook animate__animated animate__flipInX'
             namber="Facebook" 
             address={addressFacebook}
             image={Facebook}
         />
 
-        <Buttons
+        <Buttons 
+            animationClass='whatsApp animate__animated animate__flipInX'
             namber="WhatsApp" 
             address={addressWhatsApp}
             image={WhatsApp}
         /> 
 
-        <Buttons
+        <Buttons 
+            animationClass='llamadas animate__animated animate__flipInX'
             namber="Llamadas" 
             address={addressTel}
             image={Llamadas}
         /> 
 
-        <Buttons
+        <Buttons 
+            animationClass='email animate__animated animate__flipInX'
             namber="Correo" 
             address={addressEmail}
             image={Email}

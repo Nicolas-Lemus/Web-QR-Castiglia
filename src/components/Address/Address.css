@@ -1,6 +1,8 @@
 .address{
     margin: 0 auto;
-    max-width: 300px;
+    min-width: 280px;
+    max-width: 460px;
+    margin: 1rem;
     background: rgba(255, 234, 0, 0.469);
     padding: 2rem 0;
     border-radius: 2rem;
