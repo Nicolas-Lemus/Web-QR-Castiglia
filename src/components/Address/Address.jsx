@@ -14,7 +14,7 @@ const addressWeb ="#"
 const addressInstagram = "https://www.instagram.com/castigliaok/"
 const addressFacebook = "https://www.facebook.com/castigliaok/"
 const addressWhatsApp = "https://wa.me/542634876086?text=Hola%20Castiglia!%20Escribo%20para%20consultarles..."
-const addressTel = "tel:02634423186"
+const addressTel = "tel:+542634423186"
 const addressEmail = "mailto:ventascastiglia@hotmail.com?subject=Hola Castiglia! Escribo para consultarles...";
 
 
